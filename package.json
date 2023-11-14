@@ -1,0 +1,12 @@
+{
+  "name": "bitcoin-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "server": "nodemon server.js",
+  },
+  "keywords": [],
+  "author": "8bit",
+  "license": "ISC"
+}
